@@ -8,7 +8,7 @@ O joc de tip Tic Tac Toe scris in limbajul Java,
 cu interfata grafica scrisa cu ajutorul librariei
 Swing.
 Jucatorul joaca impotriva calculatorului care foloseste un algoritm de tip minmax,
-pentru a calcula mutarea propriei.
+pentru a calcula mutarea proprie.
 O descriere scurta a functiei minmax, e practic o parcurgere in adancime(DFS), in care 
 pentru a calcula cu certitudine, daca board-ul curent este castigator sau nu,
 trebuie sa se joace alternativ "optim".
