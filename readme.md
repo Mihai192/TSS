@@ -15,7 +15,6 @@ trebuie sa se joace alternativ "optim".
 
 Pentru acest proiect voi testa clasa AI, functional, structural si folosind mutation testing.
 
-
 ## Tehnologii Folosite Pentru Testare
 
 - JUnit 5 (functional testing)
