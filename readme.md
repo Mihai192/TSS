@@ -1,8 +1,8 @@
 # T3: Testare unitară în Java
 
-## Descriere generala a aplicatiei.
+![](screenshots/game.png)
 
----
+## Descriere generala a aplicatiei.
 
 O joc de tip Tic Tac Toe scris in limbajul Java,
 cu interfata grafica scrisa cu ajutorul librariei
@@ -15,7 +15,6 @@ trebuie sa se joace alternativ "optim".
 
 Pentru acest proiect voi testa clasa AI, functional, structural si folosind mutation testing.
 
----
 
 ## Tehnologii Folosite Pentru Testare
 
