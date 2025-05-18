@@ -2,8 +2,6 @@
 
 ## Descriere generala a aplicatiei.
 
----
-
 O joc de tip Tic Tac Toe scris in limbajul Java,
 cu interfata grafica scrisa cu ajutorul librariei
 Swing.
@@ -14,8 +12,6 @@ pentru a calcula cu certitudine, daca board-ul curent este castigator sau nu,
 trebuie sa se joace alternativ "optim".
 
 Pentru acest proiect voi testa clasa AI, functional, structural si folosind mutation testing.
-
----
 
 ## Tehnologii Folosite Pentru Testare
 
