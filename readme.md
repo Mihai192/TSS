@@ -4,7 +4,7 @@
 
 ## Descriere generala a aplicatiei.
 
-O joc de tip Tic Tac Toe scris in limbajul Java,
+Un joc de tip Tic Tac Toe scris in limbajul Java,
 cu interfata grafica scrisa cu ajutorul librariei
 Swing.
 Jucatorul joaca impotriva calculatorului care foloseste un algoritm de tip minmax,
